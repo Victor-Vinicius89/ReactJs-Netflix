@@ -2,12 +2,38 @@
   text-align: center;
 }
 
-.App-logo {
+.Icon {
+  position: absolute;
+  top: -140px;
+  left: -290px;
+}
+
+.NameBar {
+  position: absolute;
+  top: 20px;
+  left: 150px;
+
+}
+
+
+.Name ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 2px;
+}
+
+.Name ul li a {
+  color: #e5e5e5;
+  text-decoration: none;
+  margin: 5px;
+}
+
+/*.App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
 }
-
+*/
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -23,11 +49,16 @@
   color: #61dafb;
 }
 
+/*
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
+    color: red;
   }
+
   to {
     transform: rotate(360deg);
+    color: blue;  
   }
 }
+*/

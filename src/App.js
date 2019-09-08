@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles/app.css";
-import Header from "./componentes/header/index";
-import Icon from "./componentes/icon/index.js";
+import Header from "./components/header/index";
+import Icon from "./components/icon/index.js";
 
 function App() {
   return (

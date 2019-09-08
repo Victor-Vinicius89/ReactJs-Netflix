@@ -1,6 +1,6 @@
 import React from "react";
-import "./styles/App.css";
-import Header from "./componentes/Header/index";
+import "./styles/app.css";
+import Header from "./componentes/header/index";
 import Icon from "./componentes/icon/index.js";
 
 function App() {

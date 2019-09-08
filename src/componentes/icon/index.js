@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../imagem/logo.png";
+import logo from "../../image/logo.png";
 
 const Icon = () => (
   <div className="Icon">

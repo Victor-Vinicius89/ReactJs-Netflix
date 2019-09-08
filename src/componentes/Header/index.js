@@ -1,5 +1,5 @@
 import React from "react";
 
-const Header = () => <header id="main-header">JsHunter </header>;
+const Header = () => <div className="App-header"></div>;
 
 export default Header;

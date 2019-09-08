@@ -12,20 +12,41 @@
   position: absolute;
   top: 20px;
   left: 150px;
-
 }
 
 
-.Name ul li {
-  list-style: none;
+.NameBar ul li {
   display: inline-block;
   padding: 2px;
+  cursor: pointer;
+
 }
 
-.Name ul li a {
+.NameBar ul li a {
   color: #e5e5e5;
   text-decoration: none;
   margin: 5px;
+
+}
+
+.navSearch {
+  position: absolute;
+  top: 5px;
+  left: 940px;
+}
+
+.navInfantil {
+  position: absolute;
+  top: 20px;
+  left: 1020px;
+
+
+}
+
+.navInfantil a {
+  text-decoration: none;
+  color: #e5e5e5;
+  text-transform: uppercase;
 }
 
 /*.App-logo {
